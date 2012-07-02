@@ -1,0 +1,6 @@
+Place `consyl` in `/opt/local/bin`
+chmod u+x consyl
+
+Place `.consyl` in `~` (home directory)
+
+[] create setup script

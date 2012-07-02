@@ -1,0 +1,4 @@
+#!/bin/bash
+source ~/.consyl
+ruby $location >&2
+echo $@
