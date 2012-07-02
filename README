@@ -4,3 +4,20 @@ chmod u+x consyl
 Place `.consyl` in `~` (home directory)
 
 [] create setup script
+
+Github Commands
+  ::creat milestone
+  consyl github [6/23] Complete the alpha experience
+  consyl github [today] Beta Launch : The beta launch consists of many things, more to discuss. -> api
+
+  ::list issues/milestones
+  consyl github issues
+  consyl github issues
+
+  ::create issue
+  consyl github [] Make sure we have all this done
+
+  ::close issue
+  consyl github [-] 1813748
+
+Basecamp Commands
